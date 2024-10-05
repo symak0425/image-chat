@@ -1,0 +1,40 @@
+Introduction
+
+Our Company takes user privacy seriously. By utilizing our mobile application ("Service"), you accept the practices described in this Privacy Policy. Please note that no camera data will be saved during your interaction with the Service.
+
+Information We Collect
+
+We gather several types of anonymous information from users, including:
+
+    Device Identifiers: Including unique device ID numbers, network information, and hardware model.
+
+Please rest assured that we do not collect any personally identifiable information or capture camera images for saving purposes.
+How We Use Information
+
+The anonymous information we collect helps us understand and analyze trends, manage the Service, track user behavior, and gather demographic information. This allows us to offer better experiences and improved tools in future updates. None of the data collected contains any sensitive information pertaining to individual users.
+
+Disclosure of Personal Information
+
+Since we do not collect any personal information nor save camera data, there is nothing to disclose to third parties. Rest assured, your interactions with the Service remain private and secure.
+
+Data Retention
+
+Session logs and other non-personally identifiable data may be temporarily retained to maintain system performance and resolve disputes. Any data that could potentially identify individual users, including camera data, is immediately discarded after analysis.
+User Rights and Control
+
+As we do not collect any personal information, most user rights and control mechanisms associated with traditional privacy policies do not apply in this case. Nonetheless, we respect every user's right to request removal or modification of any data linked to their account. Simply reach out to us using the Contact section below, and we will assist you accordingly.
+
+Changes to This Privacy Policy
+
+From time to time, we may revise this Privacy Policy to reflect changes in technology, industry practices, or legal requirements. When making material changes, we will notify users either through an in-app notice or by sending an email to registered users. We encourage you to periodically review this Privacy Policy to stay informed about our practices.
+Contact Us
+
+If you have any questions, concerns, or suggestions regarding our Privacy Policy, feel free to reach out to us at "contact@companyname.com" or via postal mail at:
+
+Ziesoft
+Daniel Zierl
+Kralovická 4
+Plzeň 323 00
+Czechia
+
+Thank you for choosing our Service. We appreciate your trust and strive to protect your privacy.

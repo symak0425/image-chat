@@ -1,0 +1,8 @@
+{
+  "prompts": ["test1", "What is on the image?"],
+  "maxTokenLength": 100,
+  "cameraGestures": true,
+  "outputLanguage": "en",
+  "inputLanguage": "en",
+  "resolution": "High"
+}
